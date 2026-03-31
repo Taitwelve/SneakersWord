@@ -22,10 +22,11 @@ body {
         }
 
         h1 {
-            font-size: 2.5rem;
+            font-size: 1.5rem;
             margin-left: 20px;
             color: #ffffff;
             margin-left: 20px;
+            font-family: 'Unbounded', sans-serif;
         }
 
         nav {
@@ -55,10 +56,18 @@ body {
         section {
 
             h2 { 
-
+                font-family: 'Unbounded', sans-serif;
+                font-size: 50px;
                 span {
                     color: #9747ff;
                 }
+            }
+
+            p {
+                font-size: 18px;
+                margin-top: 20px;
+                line-height: 1.6;
+                font-family: "poppins", sans-serif;
             }
         }
     }
